@@ -6,13 +6,15 @@
 
 body{
   background-color: pink;
-
-
-h1{background-color:rgb(233, 150, 191);}
-color:hsl(312, 38%, 84%);
-padding:40px
-text-align:center;
 }
 
-p{background-color: #ffffff;
- }
+h1{
+  background-color:rgb(233, 150, 191);
+  color:hsl(312, 38%, 84%);
+  padding:40px;
+  text-align:center;
+}
+
+p{
+  background-color: #ffffff;
+}
