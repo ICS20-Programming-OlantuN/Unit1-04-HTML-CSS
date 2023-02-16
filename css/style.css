@@ -3,18 +3,17 @@
 *This CSS file defines the style for index.html
 *ICS@O-Unit1-04-HTML-CSS
 */
-
-body{
+body {
   background-color: pink;
 }
 
-h1{
-  background-color:rgb(233, 150, 191);
-  color:hsl(312, 38%, 84%);
-  padding:40px;
-  text-align:center;
+h1 {
+  background-color: rgb(233, 150, 191);
+  color: hsl(312, 38%, 84%);
+  padding: 40px;
+  text-align: center;
 }
 
-p{
+p {
   background-color: #ffffff;
 }
